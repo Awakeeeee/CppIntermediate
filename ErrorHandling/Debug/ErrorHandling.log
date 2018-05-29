@@ -1,0 +1,4 @@
+﻿  Main_l2.cpp
+d:\ms visualstudio\cpp\cppintermediate\errorhandling\main_l2.cpp(51): warning C4101: 'e': unreferenced local variable
+  ErrorHandling.vcxproj -> D:\MS VisualStudio\Cpp\CppIntermediate\Debug\ErrorHandling.exe
+  ErrorHandling.vcxproj -> D:\MS VisualStudio\Cpp\CppIntermediate\Debug\ErrorHandling.pdb (Full PDB)

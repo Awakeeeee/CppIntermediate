@@ -1,0 +1,6 @@
+D:\MS VisualStudio\Cpp\CppIntermediate\CsharpComparison\bin\Debug\CsharpComparison.exe.config
+D:\MS VisualStudio\Cpp\CppIntermediate\CsharpComparison\bin\Debug\CsharpComparison.exe
+D:\MS VisualStudio\Cpp\CppIntermediate\CsharpComparison\bin\Debug\CsharpComparison.pdb
+D:\MS VisualStudio\Cpp\CppIntermediate\CsharpComparison\obj\Debug\CsharpComparison.csprojResolveAssemblyReference.cache
+D:\MS VisualStudio\Cpp\CppIntermediate\CsharpComparison\obj\Debug\CsharpComparison.exe
+D:\MS VisualStudio\Cpp\CppIntermediate\CsharpComparison\obj\Debug\CsharpComparison.pdb

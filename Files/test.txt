@@ -1,0 +1,2 @@
+Level(Sword of Ash) : Legend
+Level(Boot of Flame) : Rare
